@@ -1,4 +1,3 @@
-# 2024-Mobile-Phone-Analysis
 # 2024 Mobile Phone Sales Analysis
 
 This report summarizes key insights from the analysis of mobile phone sales data across multiple countries, brands, and customer segments in 2024.
