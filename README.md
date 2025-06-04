@@ -118,3 +118,5 @@ This report summarizes key insights from the analysis of mobile phone sales data
 
 The analysis provides actionable insights into sales trends, customer preferences, and regional behaviors. These findings can help marketing, product, and sales teams optimize strategies in pricing, inventory, and targeting.
 
+![data_viz_may-xlsx-06-04-2025_09_40_PM](https://github.com/user-attachments/assets/c9f28927-ee3a-4ab0-adbe-b63885a14b6f)
+
